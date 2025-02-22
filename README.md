@@ -22,6 +22,7 @@
 | 华为云 盘古大模型 | | | | | | | | | | | | | | | ✓ | |
 | 火山引擎 豆包大模型 | | | | | | | | | | | | | | | | ✓ |
 | 火山引擎 火山方舟 | | | | | | | | ✓ | | | | ✓ | ✓ | | | ✓ |
+| SiliconFlow (硅基流动) | | | | ✓ | | | ✓ | ✓ | | ✓ | | | ✓ | ✓ | | |
 | Hugging Face Serverless Inference API | | | | ✓ | ✓ | | ✓ | | | ✓ | | | | | | |
 | ModelScope推理API | | | | ✓ | | | ✓ | | | | | | | | | |
 | OpenRouter | ✓ | ✓ | ✓ | ✓ | ✓ | | ✓ | | | ✓ | | | ✓ | | | |
@@ -49,6 +50,7 @@
 - [华为云 盘古大模型](https://www.huaweicloud.com/product/pangu.html)
 - [火山引擎 豆包大模型](https://www.volcengine.com/product/doubao)
 - [火山引擎 火山方舟](https://www.volcengine.com/product/ark)
+- [SiliconFlow (硅基流动)](https://siliconflow.cn/)
 - [Hugging Face Serverless Inference API](https://huggingface.co/docs/api-inference/en/index)
 - [ModelScope推理API](https://modelscope.cn/docs/model-service/API-Inference/intro)
 - [OpenRouter](https://openrouter.ai/)
